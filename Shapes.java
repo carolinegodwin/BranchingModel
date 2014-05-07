@@ -11,7 +11,10 @@
 //
 // The only thing that I could not get to work completely is the centering of the object in the Jframe
 // It is centering on the x axis, but not on the y axis. I couldn't figure out why.
-// 
+//
+
+// This is the Develop 1 change
+//Just kidding it isn't really, its the Develop 2 change
 
 import java.awt.*;
 
