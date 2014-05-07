@@ -13,7 +13,7 @@
 // It is centering on the x axis, but not on the y axis. I couldn't figure out why.
 //
 
-//Just kidding it isn't really, its the Develop 2 change
+//JDevelop 3 is where we branch into the feature branches!
 
 import java.awt.*;
 
